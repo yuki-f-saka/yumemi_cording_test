@@ -1,8 +1,7 @@
 # ゆめみ株式会社のコーディング模試
 
 ## Run
+Run the below command in current directory
 ```
-# ~/your_directory/yumemi_cording_test 
-# Run the below command in current directory
 $ go run main.go -filepath=[input file path]
 ```
